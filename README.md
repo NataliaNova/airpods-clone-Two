@@ -1,12 +1,18 @@
-# React + Vite
+# Clon de la página de AirPods
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una réplica de la landing page de AirPods, desarrollada con HTML5, CSS3 y JavaScript.
 
-Currently, two official plugins are available:
+## 🖼️ Vista previa
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura del proyecto]
 
-## Expanding the ESLint configuration
+## 🔗 Enlaces
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [Ver online en Vercel](https://airpods-clone-two.vercel.app)
+- [Ver en GitHub](https://github.com/NataliaNova/airpods-clone-Two)
+
+## ⚙️ Tecnologías usadas
+
+- HTML5
+- CSS3
+- JavaScript
